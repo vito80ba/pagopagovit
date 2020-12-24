@@ -1,1 +1,1 @@
-window.__PUBLIC_PATH__ = '/assets/bootstrap-italia/dist/fonts';
+window.__PUBLIC_PATH__ = 'https://vito80ba.github.io/pagopagovit/assets/bootstrap-italia/dist/fonts';

@@ -29,7 +29,7 @@ order: 1
             Pubbliche Amministrazioni
           </div>
           <div class="card-body">
-            <p class="card-text"><b>Tutte le Pubbliche Amministrazioni devono aderire al nuovo sistema per legge</b>, e possono integrarsi sia in modalità diretta che in modalità indiretta per mezzo di intermediari tecnologici.</p>
+            <p class="card-text">TEST TEST<b>Tutte le Pubbliche Amministrazioni devono aderire al nuovo sistema per legge</b>, e possono integrarsi sia in modalità diretta che in modalità indiretta per mezzo di intermediari tecnologici.</p>
             <a class="read-more" href="{{ site.baseurl }}/it/pubbliche-amministrazioni">
               <span class="text">Leggi di più</span>
               <svg class="icon">

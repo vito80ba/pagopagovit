@@ -1,26 +1,25 @@
 ---
 layout: post
-title: Italia - la BEI sostiene i progetti di PagoPA S.p.A. per la digitalizzazione dei servizi pubblici 
-
+title: Italia - la BEI sostiene i progetti di PagoPA S.p.A. per la
+  digitalizzazione dei servizi pubblici
 lang: it
 excerpt_separator: <!--more-->
-tags: 
+tags: null
 child_of_ref: comunicati-stampa
 ---
+**Prestito di 60 milioni per il piano di investimenti quadriennale della Società pubblica partecipata dal MEF e vigilata dal Presidente del Consiglio dei Ministri - MID**
 
-**Prestito di 30 milioni per il piano di investimenti quadriennale della Società pubblica partecipata dal MEF e vigilata dal Presidente del Consiglio dei Ministri - MID**
 <!--more-->
 
 **Obiettivo di PagoPA S.p.A. è diffondere servizi pubblici digitali sempre più a misura di cittadino, accelerando l’adozione di piattaforme tecnologiche innovative da parte di amministrazioni centrali e locali**
 
 **Tra i progetti oggetto del finanziamento: IO, l’app dei servizi pubblici, e pagoPA, il sistema nazionale dei pagamenti verso la Pubblica Amministrazione** 
 
-
 <!--more-->
+
 <img src="/assets/images/eib-logo-en.png" alt="EIB" width="150">
 
 <img src="/assets/images/logo-pagopa-spa.png" alt="PagoPa" width="150">
-
 
 Roma, 22 luglio 2020 - Una priorità da almeno tre anni in testa all’agenda del Governo italiano, che ha subìto una forte accelerazione dopo le restrizioni causate dall’epidemia di Covid-19 e oggi rappresenta il pilastro su cui ricostruire la ripartenza del Paese. È la digitalizzazione della Pubblica Amministrazione (PA) e dei suoi rapporti con cittadini e imprese, a cui punta anche il Decreto Legge 16 luglio 2020, n. 76 recante “Misure urgenti per la semplificazione e l’innovazione digitale”. In questo contesto si inscrive l’impegno della società a controllo pubblico PagoPA S.p.A., il cui piano di investimenti quadriennale riceve il forte sostegno della banca dell’Unione europea.
 È questa la finalità dell’accordo perfezionato oggi tra PagoPA S.p.A. e la Banca europea per gli investimenti (BEI) per **un finanziamento di 30 milioni**, pari al 50% del programma di sviluppo 2020-2023 della società interamente partecipata dallo Stato, attraverso il Ministero dell’Economia e delle Finanze (MEF) e sottoposta alla vigilanza del Presidente del Consiglio, per tramite del Ministro per l’Innovazione tecnologica e la Digitalizzazione. 
@@ -33,7 +32,6 @@ Tutti progetti fondati sulla **semplificazione** e sulla **piena accessibilità 
 
 Soddisfazione ha espresso il **Ministro dell’Innovazione e della Digitalizzazione, Paola Pisano**. *“L’accordo tra BEI e PagoPA offrirà un contributo notevole alla società pubblica per ampliare e migliorare i servizi digitali per i cittadini. Un cambio di passo nella direzione della trasformazione digitale del Paese, più che mai importante nella fase di ripresa dopo la crisi portata dalla pandemia. Il finanziamento da parte della BEI è un esempio di come le istituzioni europee sono al fianco degli Stati membri per aiutarli a riprendere un cammino di sviluppo e modernizzazione”*. 
 
-*“Lo sviluppo delle reti digitali e dei servizi ad esse connessi è da anni una delle priorità delle politiche di finanziamento della banca dell’Unione europea. Un obiettivo cruciale per uno sviluppo economico e sociale armonioso, la cui importanza è apparsa ancor più evidente con quanto è accaduto durante la fase acuta della pandemia da Covid-19. Per questo sono molto soddisfatto che la BEI possa affiancare PagoPA nella sua missione che vedrà la società lavorare per e a fianco di cittadini e imprese nel processo di ammodernamento in atto della Pubblica Amministrazione”, ha dichiarato **Dario Scannapieco, Vicepresidente della BEI.***
+\*“Lo sviluppo delle reti digitali e dei servizi ad esse connessi è da anni una delle priorità delle politiche di finanziamento della banca dell’Unione europea. Un obiettivo cruciale per uno sviluppo economico e sociale armonioso, la cui importanza è apparsa ancor più evidente con quanto è accaduto durante la fase acuta della pandemia da Covid-19. Per questo sono molto soddisfatto che la BEI possa affiancare PagoPA nella sua missione che vedrà la società lavorare per e a fianco di cittadini e imprese nel processo di ammodernamento in atto della Pubblica Amministrazione”, ha dichiarato **Dario Scannapieco, Vicepresidente della BEI.***
 
  *“Dalla sua creazione nel luglio 2019, la nostra società è cresciuta rapidamente, ottenendo importanti risultati in anticipo sulla tabella di marcia che ci siamo dati nel nostro piano di sviluppo e posizionandosi quale interlocutore esperto a fianco delle istituzioni governative, per valutazioni strategiche su scelte in ambito digitale che impattano sulla vita delle persone”, ha commentato **Giuseppe Virgone, Amministratore unico di PagoPA S.p.A**. “Il sostegno ricevuto dalla BEI è per noi motivo d’orgoglio e un riconoscimento significativo del valore dei nostri progetti al servizio del Paese, che ci consentirà di accelerare ulteriormente la diffusione di servizi pubblici digitali sempre più a misura di cittadino”.*
-

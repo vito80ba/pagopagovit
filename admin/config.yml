@@ -5,3 +5,15 @@ backend:
   repo: vito80ba/pagopagovit
   branch: master # Branch to update (optional; defaults to master)
 media_folder: "assets/images"
+collections:
+  - name: "comunicati"
+    label: "Comunicati"
+    folder: "_posts/"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: true
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }

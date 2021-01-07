@@ -20,7 +20,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "lavoraconnoi"
     label: "Lavora con noi"
-    folder: "it/pagopa-spa/societa-trasparente/selezione-del-personale/reclutamento-del-personale"
+    folder: "it/pagopa-spa/societa-trasparente/selezione-del-personale/reclutamento-del-personale/lavora-con-noi"
     create: true
     editor:
       preview: true

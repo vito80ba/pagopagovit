@@ -28,7 +28,7 @@ Se hai il profilo giusto e credi come me che l’Italia diventerà un Paese inno
 {: .mt-4}
 
 {% assign jobs_pages = site.pages | where: "lang", page.lang | where: "layout", "job" | sort: "title" %}
-{% assign open_jobs_pages = jobs_pages | where_exp: "item", "item.archived == nil" %}
+{% assign open_jobs_pages = jobs_pages | where_exp: "item", "item.archived != true" %}
 {% assign closed_jobs_pages = jobs_pages | where: "archived", true %}
 
 {% if open_jobs_pages.size == 0 %}

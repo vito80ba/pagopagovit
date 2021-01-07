@@ -15,5 +15,38 @@ collections:
       preview: true
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Lingua", name: "lang", widget: "hidden", default: "it" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "lavoraconnoi"
+    label: "Lavora con noi"
+    folder: "it/pagopa-spa/societa-trasparente/selezione-del-personale/reclutamento-del-personale"
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "job" }
+      - { label: "Lingua", name: "lang", widget: "hidden", default: "it" }
+      - {
+          label: "Altezza iframe",
+          name: "iframeheight",
+          widget: "hidden",
+          default: "2200",
+        }
+      - {
+          label: "Figlio di",
+          name: "child_of_ref",
+          widget: "hidden",
+          default: "lavora-con-noi",
+        }
+      - { label: "Nome univoco nel sito", name: "ref", widget: "string" }
+      - { label: "URL Jazz", name: "jazz_url", widget: "string" }
+      - { label: "Nuovo", name: "is_new", widget: "boolean", default: true }
+      - {
+          label: "Archiviato",
+          name: "archived",
+          widget: "boolean",
+          default: false,
+        }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }

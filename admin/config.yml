@@ -86,9 +86,201 @@ collections:
               widget: "string",
               required: false,
             }
-  - name: "paginestatiche"
-    label: "Pagine"
-    folder: "it"
+  - name: "sezionepagopa"
+    label: "Sezione pagoPA"
+    folder: "it/pagopa"
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Descrizione breve", name: "description", widget: "string" }
+      - {
+          label: "Omettere il titolo su pagina",
+          name: "omit_title",
+          widget: "boolean",
+          default: false,
+        }
+      - {
+          label: "Ordinamento su menu di secondo livello",
+          name: "order",
+          widget: "number",
+        }
+      - {
+          label: "Abilitare la navigazione locale",
+          name: "local_navigation",
+          widget: "boolean",
+        }
+      - {
+          label: "Definizione di figlio di sottomenu",
+          name: "child_of_submenu",
+          widget: "string",
+          hint: "Inserire valore 'ref' della madre",
+        }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+      - { label: "Lingua", name: "lang", widget: "hidden", default: "it" }
+      - {
+          label: "Figlio di",
+          name: "child_of_ref",
+          widget: "string",
+          default: "lavora-con-noi",
+          hint: "Inserire il valore del 'ref' della pagina madre di questa",
+          required: true,
+        }
+      - {
+          label: "Nome univoco nel sito",
+          name: "ref",
+          widget: "string",
+          required: true,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "sezionespa"
+    label: "Sezione S.p.A."
+    folder: "it/pagopa-spa"
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Descrizione breve", name: "description", widget: "string" }
+      - {
+          label: "Omettere il titolo su pagina",
+          name: "omit_title",
+          widget: "boolean",
+          default: false,
+        }
+      - {
+          label: "Ordinamento su menu di secondo livello",
+          name: "order",
+          widget: "number",
+        }
+      - {
+          label: "Abilitare la navigazione locale",
+          name: "local_navigation",
+          widget: "boolean",
+        }
+      - {
+          label: "Definizione di figlio di sottomenu",
+          name: "child_of_submenu",
+          widget: "string",
+          hint: "Inserire valore 'ref' della madre",
+        }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+      - { label: "Lingua", name: "lang", widget: "hidden", default: "it" }
+      - {
+          label: "Figlio di",
+          name: "child_of_ref",
+          widget: "string",
+          default: "lavora-con-noi",
+          hint: "Inserire il valore del 'ref' della pagina madre di questa",
+          required: true,
+        }
+      - {
+          label: "Nome univoco nel sito",
+          name: "ref",
+          widget: "string",
+          required: true,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "fondoinnovazione"
+    label: "Fondo Innovazione"
+    folder: "it/pagopa-spa/fondoinnovazione"
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Descrizione breve", name: "description", widget: "string" }
+      - {
+          label: "Omettere il titolo su pagina",
+          name: "omit_title",
+          widget: "boolean",
+          default: false,
+        }
+      - {
+          label: "Ordinamento su menu di secondo livello",
+          name: "order",
+          widget: "number",
+        }
+      - {
+          label: "Abilitare la navigazione locale",
+          name: "local_navigation",
+          widget: "boolean",
+        }
+      - {
+          label: "Definizione di figlio di sottomenu",
+          name: "child_of_submenu",
+          widget: "string",
+          hint: "Inserire valore 'ref' della madre",
+        }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+      - { label: "Lingua", name: "lang", widget: "hidden", default: "it" }
+      - {
+          label: "Figlio di",
+          name: "child_of_ref",
+          widget: "string",
+          default: "lavora-con-noi",
+          hint: "Inserire il valore del 'ref' della pagina madre di questa",
+          required: true,
+        }
+      - {
+          label: "Nome univoco nel sito",
+          name: "ref",
+          widget: "string",
+          required: true,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "psp"
+    label: "Sezione PSP"
+    folder: "it/prestatori-servizi-di-pagamento"
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Descrizione breve", name: "description", widget: "string" }
+      - {
+          label: "Omettere il titolo su pagina",
+          name: "omit_title",
+          widget: "boolean",
+          default: false,
+        }
+      - {
+          label: "Ordinamento su menu di secondo livello",
+          name: "order",
+          widget: "number",
+        }
+      - {
+          label: "Abilitare la navigazione locale",
+          name: "local_navigation",
+          widget: "boolean",
+        }
+      - {
+          label: "Definizione di figlio di sottomenu",
+          name: "child_of_submenu",
+          widget: "string",
+          hint: "Inserire valore 'ref' della madre",
+        }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+      - { label: "Lingua", name: "lang", widget: "hidden", default: "it" }
+      - {
+          label: "Figlio di",
+          name: "child_of_ref",
+          widget: "string",
+          default: "lavora-con-noi",
+          hint: "Inserire il valore del 'ref' della pagina madre di questa",
+          required: true,
+        }
+      - {
+          label: "Nome univoco nel sito",
+          name: "ref",
+          widget: "string",
+          required: true,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "pa"
+    label: "Sezione P.A."
+    folder: "it/pubbliche-amministrazioni"
     create: true
     editor:
       preview: true

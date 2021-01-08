@@ -8,6 +8,11 @@ jazz_url: https://pagopa.applytojob.com/apply/INsaNd1xzv/Application-Security-En
 is_new: true
 archived: false
 title: Tester
+metadata:
+  apertura: 07/01/2021
+  chiusura: 07/02/2021
+  numricercate: "2"
+  numassunte: "0"
 ---
 Questa è una nuova posizione di lavoro di prova
 

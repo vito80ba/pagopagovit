@@ -333,7 +333,6 @@ collections:
         label: "FAQ Fondo Innovazione"
         file: "_data/faq-fondoinnovazione.yml"
         extension: yml
-        widget: list
         fields:
           - { label: "Titolo", name: "title", widget: "string", required: true }
           - { label: "Testo", name: "body", widget: "string", required: true }

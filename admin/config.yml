@@ -329,12 +329,17 @@ collections:
   - name: "datistrutturati"
     label: "Dati strutturati"
     files:
-      name: "fondoinnovazionefaq"
-      label: "FAQ Fondo Innovazione"
-      file: "_data/faq-fondoinnovazione.yml"
-      extension: yml
-      widget: list
-      fields:
-        - { label: "Titolo", name: "title", widget: "string", required: true }
-        - { label: "Testo", name: "body", widget: "string", required: true }
-        - { label: "Categoria", name: "cat", widget: "string", required: true }
+      - name: "fondoinnovazionefaq"
+        label: "FAQ Fondo Innovazione"
+        file: "_data/faq-fondoinnovazione.yml"
+        extension: yml
+        widget: list
+        fields:
+          - { label: "Titolo", name: "title", widget: "string", required: true }
+          - { label: "Testo", name: "body", widget: "string", required: true }
+          - {
+              label: "Categoria",
+              name: "cat",
+              widget: "string",
+              required: true,
+            }

@@ -39,7 +39,12 @@ collections:
           widget: "hidden",
           default: "lavora-con-noi",
         }
-      - { label: "Nome univoco nel sito", name: "ref", widget: "string" }
+      - {
+          label: "Nome univoco nel sito",
+          name: "ref",
+          widget: "string",
+          required: true,
+        }
       - { label: "URL Jazz", name: "jazz_url", widget: "string" }
       - { label: "Nuovo", name: "is_new", widget: "boolean", default: true }
       - {
@@ -50,3 +55,32 @@ collections:
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Dati ulteriori"
+        name: "metadata"
+        widget: "object"
+        collapsed: false
+        fields:
+          - {
+              label: "Data di apertura",
+              name: "apertura",
+              widget: "string",
+              hint: "Formato gg/mm/aaaa",
+              required: true,
+            }
+          - {
+              label: "Data di chiusura",
+              name: "chiusura",
+              widget: "string",
+              hint: "Formato gg/mm/aaaa",
+              required: true,
+            }
+          - {
+              label: "Numero persone ricercate",
+              name: "numricercate",
+              widget: "string",
+            }
+          - {
+              label: "Numero persone assunte",
+              name: "numassunte",
+              widget: "string",
+            }

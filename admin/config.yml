@@ -5,6 +5,7 @@ backend:
   repo: vito80ba/pagopagovit
   branch: master # Branch to update (optional; defaults to master)
 media_folder: "assets/images"
+publish_mode: editorial_workflow
 collections:
   - name: "comunicati"
     label: "Comunicati"

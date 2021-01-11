@@ -333,26 +333,29 @@ collections:
         label: "FAQ Fondo Innovazione"
         file: "_data/faq-fondoinnovazione.yml"
         fields:
-          - label: "lang"
-            name: "lang"
-            widget: list
-            allow_add: true
-            fields:
-              - {
-                  label: "Titolo",
-                  name: "title",
-                  widget: "string",
-                  required: true,
-                }
-              - {
-                  label: "Testo",
-                  name: "body",
-                  widget: "string",
-                  required: true,
-                }
-              - {
-                  label: "Categoria",
-                  name: "cat",
-                  widget: "string",
-                  required: true,
-                }
+          - label: "faqs"
+            name: "FAQs"
+            - fields:
+              - label: "lang"
+                name: "lang"
+                widget: list
+                allow_add: true
+                fields:
+                  - {
+                      label: "Titolo",
+                      name: "title",
+                      widget: "string",
+                      required: true,
+                    }
+                  - {
+                      label: "Testo",
+                      name: "body",
+                      widget: "string",
+                      required: true,
+                    }
+                  - {
+                      label: "Categoria",
+                      name: "cat",
+                      widget: "string",
+                      required: true,
+                    }

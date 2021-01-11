@@ -328,34 +328,32 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "datistrutturati"
     label: "Dati strutturati"
+    editor:
+      preview: false
     files:
       - name: "fondoinnovazionefaq"
         label: "FAQ Fondo Innovazione"
         file: "_data/faq-fondoinnovazione.yml"
         fields:
-          - label: "faqs"
-            name: "FAQs"
-            - fields:
-              - label: "lang"
-                name: "lang"
-                widget: list
-                allow_add: true
-                fields:
-                  - {
-                      label: "Titolo",
-                      name: "title",
-                      widget: "string",
-                      required: true,
-                    }
-                  - {
-                      label: "Testo",
-                      name: "body",
-                      widget: "string",
-                      required: true,
-                    }
-                  - {
-                      label: "Categoria",
-                      name: "cat",
-                      widget: "string",
-                      required: true,
-                    }
+          - label: "FAQ"
+            name: it
+            widget: list
+            fields:
+              - {
+                  label: "Titolo",
+                  name: "title",
+                  widget: "string",
+                  required: true,
+                }
+              - {
+                  label: "Testo",
+                  name: "body",
+                  widget: "string",
+                  required: true,
+                }
+              - {
+                  label: "Categoria",
+                  name: "cat",
+                  widget: "string",
+                  required: true,
+                }

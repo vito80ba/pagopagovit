@@ -331,7 +331,7 @@ collections:
     editor:
       preview: false
     files:
-      - name: "fondoinnovazionefaq"
+      - name: faq-fondoinnovazione
         label: "FAQ Fondo Innovazione"
         file: "_data/faq-fondoinnovazione.yml"
         fields:

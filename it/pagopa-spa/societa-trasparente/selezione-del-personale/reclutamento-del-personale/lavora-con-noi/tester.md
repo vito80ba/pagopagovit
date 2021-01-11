@@ -18,4 +18,4 @@ Questa è una nuova posizione di lavoro di prova
 
 ### Requisiti preferenziali
 
-Essere un tester battle tested
+Essere un tester battle tested, con modifica

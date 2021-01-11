@@ -336,6 +336,7 @@ collections:
           - label: "lang"
             name: "lang"
             widget: list
+            allow_add: true
             fields:
               - {
                   label: "Titolo",

@@ -1,49 +1,116 @@
 it:
   - title: Chi può aderire all’Avviso Pubblico Fondo Innovazione?
-    body: "Possono presentare domanda di adesione all'[Avviso Pubblico](../AVVISO_PUBBLICO_FONDO_INNOVAZIONE.pdf) tutti i Comuni italiani che, come previsto dal Decreto Semplificazioni n. 76/2020, entro il 28 febbraio 2021 sono tenuti a effettuare o completare l’adesione al sistema SPID e la migrazione alla piattaforma pagoPA, nonché avviare l’integrazione dei propri servizi digitali sull’App IO."
-    cat: "1|Requisiti e domanda di adesione"
-  - title: Un Comune che sia già stato ammesso all’Avviso per il “rafforzamento della capacità amministrativa dei piccoli Comuni”, rivolto ai Comuni con popolazione inferiore ai 5.000 abitanti, pubblicato dalla Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica - può aderire anche all’Avviso Pubblico Fondo Innovazione?
-    body: "Si, un Comune può aderire a entrambi gli Avvisi pubblici. Nel caso specifico, qualora lo stesso Comune aderisse anche all’Avviso Pubblico Fondo Innovazione, il contributo a cui avrà potenzialmente diritto sarà pari al 70% dell’[importo stabilito](../Fasce_demografiche.pdf)."
-    cat: "1|Requisiti e domanda di adesione"
-  - title: Possono aderire i Comuni che sono già ricompresi in accordi Regionali che hanno finalità analoghe a quelle individuate nel presente Avviso Pubblico?
-    body: "No, è fatto divieto di adesione all’Avviso Pubblico Fondo Innovazione ai Comuni che sono ricompresi in accordi Regionali con finalità analoghe a quelle individuate nel presente Avviso. "
-    cat: "1|Requisiti e domanda di adesione"
-  - title: Cosa si intende per accordi regionali che hanno finalità analoghe a quelle individuate nel presente Avviso Pubblico?
-    body: "Nell’ambito delle risorse in dotazione al Fondo per l’Innovazione Tecnologica e la Digitalizzazione, alcune Regioni hanno previsto accordi specifici che coinvolgono  parte dei Comuni del proprio territorio, al fine di gestire in autonomia l’erogazione dei contributi per il raggiungimento di risultati analoghi a quelli del presente Avviso Pubblico."
-    cat: "1|Requisiti e domanda di adesione"
-  - title: Possono aderire i Comuni che hanno stipulato accordi con le Regioni per l’utilizzo delle piattaforme regionali di riuso?
-    body: "Sì, non sono esclusi dal presente Avviso Pubblico i Comuni che abbiano già sottoscritto accordi regionali a tal fine."
-    cat: "1|Requisiti e domanda di adesione"
-  - title: Un Comune che ha affidato i propri servizi di incasso a un ente riscossore (riscossione volontaria), può partecipare all’Avviso Pubblico?
-    body: "Si, il Comune può partecipare all’Avviso Pubblico poiché, nonostante abbia affidato i servizi di incasso a un soggetto riscossore pubblico o privato, l’adesione alla piattaforma pagoPA è in ogni caso obbligatoria entro il 28/02/2021. In ogni caso, ai fini del raggiungimento degli obiettivi a cui è subordinata l’erogazione dei contributi oggetto del presente Avviso Pubblico, il Comune dovrà preventivamente assicurarsi che l’ente riscossore sia già aderente alla piattaforma pagoPA e, pertanto, veicoli i pagamenti tramite la stessa piattaforma."
-    cat: "1|Requisiti e domanda di adesione"
+    body: Possono presentare domanda di adesione all'[Avviso
+      Pubblico](../AVVISO_PUBBLICO_FONDO_INNOVAZIONE.pdf) tutti i Comuni
+      italiani che, come previsto dal Decreto Semplificazioni n. 76/2020, entro
+      il 28 febbraio 2021 sono tenuti a effettuare o completare l’adesione al
+      sistema SPID e la migrazione alla piattaforma pagoPA, nonché avviare
+      l’integrazione dei propri servizi digitali sull’App IO.
+    cat: 1|Requisiti e domanda di adesione
+  - title: Un Comune che sia già stato ammesso all’Avviso per il “rafforzamento
+      della capacità amministrativa dei piccoli Comuni”, rivolto ai Comuni con
+      popolazione inferiore ai 5.000 abitanti, pubblicato dalla Presidenza del
+      Consiglio dei ministri - Dipartimento della funzione pubblica - può
+      aderire anche all’Avviso Pubblico Fondo Innovazione?
+    body: Si, un Comune può aderire a entrambi gli Avvisi pubblici. Nel caso
+      specifico, qualora lo stesso Comune aderisse anche all’Avviso Pubblico
+      Fondo Innovazione, il contributo a cui avrà potenzialmente diritto sarà
+      pari al 70% dell’[importo stabilito](../Fasce_demografiche.pdf).
+    cat: 1|Requisiti e domanda di adesione
+  - title: Possono aderire i Comuni che sono già ricompresi in accordi Regionali che
+      hanno finalità analoghe a quelle individuate nel presente Avviso Pubblico?
+    body: "No, è fatto divieto di adesione all’Avviso Pubblico Fondo Innovazione ai
+      Comuni che sono ricompresi in accordi Regionali con finalità analoghe a
+      quelle individuate nel presente Avviso. "
+    cat: 1|Requisiti e domanda di adesione
+  - title: Cosa si intende per accordi regionali che hanno finalità analoghe a
+      quelle individuate nel presente Avviso Pubblico?
+    body: Nell’ambito delle risorse in dotazione al Fondo per l’Innovazione
+      Tecnologica e la Digitalizzazione, alcune Regioni hanno previsto accordi
+      specifici che coinvolgono  parte dei Comuni del proprio territorio, al
+      fine di gestire in autonomia l’erogazione dei contributi per il
+      raggiungimento di risultati analoghi a quelli del presente Avviso
+      Pubblico.
+    cat: 1|Requisiti e domanda di adesione
+  - title: Possono aderire i Comuni che hanno stipulato accordi con le Regioni per
+      l’utilizzo delle piattaforme regionali di riuso?
+    body: Sì, non sono esclusi dal presente Avviso Pubblico i Comuni che abbiano già
+      sottoscritto accordi regionali a tal fine.
+    cat: 1|Requisiti e domanda di adesione
+  - title: Un Comune che ha affidato i propri servizi di incasso a un ente
+      riscossore (riscossione volontaria), può partecipare all’Avviso Pubblico?
+    body: Si, il Comune può partecipare all’Avviso Pubblico poiché, nonostante abbia
+      affidato i servizi di incasso a un soggetto riscossore pubblico o privato,
+      l’adesione alla piattaforma pagoPA è in ogni caso obbligatoria entro il
+      28/02/2021. In ogni caso, ai fini del raggiungimento degli obiettivi a cui
+      è subordinata l’erogazione dei contributi oggetto del presente Avviso
+      Pubblico, il Comune dovrà preventivamente assicurarsi che l’ente
+      riscossore sia già aderente alla piattaforma pagoPA e, pertanto, veicoli i
+      pagamenti tramite la stessa piattaforma.
+    cat: 1|Requisiti e domanda di adesione
   - title: Come si aderisce all’Avviso Pubblico Fondo Innovazione?
-    body: "Per aderire, è necessario presentare la domanda di adesione tramite apposita procedura all’interno della [piattaforma online dedicata](https://fondoinnovazione.pagopa.it/) entro il 15 gennaio 2021. Consulta il manuale operativo per essere guidato nella corretta compilazione e nel successivo caricamento sulla piattaforma del modulo online per l’adesione."
-    cat: "1|Requisiti e domanda di adesione"
-  - title: "Nel modulo di adesione è prevista la possibilità di indicare un soggetto “delegato”: chi può rivestire questo ruolo per conto del Comune aderente?"
-    body: "L’incaricato deve essere una persona appartenente al Comune con un incarico dirigenziale. Si suggerisce di affidare, per competenza, l’incarico al referente dei processi di attivazione e integrazione delle piattaforme abilitanti per il raggiungimento degli obiettivi dell’Avviso Pubblico."
-    cat: "1|Requisiti e domanda di adesione"
-  - title: In che modo il Comune riceverà conferma di ammissione della propria domanda di adesione?
-    body: "Il Comune riceverà una mail a mezzo PEC (sullo stesso indirizzo PEC censito in IPA) con la comunicazione di conferma dell’esito positivo della propria domanda di ammissione."
-    cat: "1|Requisiti e domanda di adesione"
-  - title: In caso di irregolarità rilevate sulla domanda di adesione, un Comune riceve una comunicazione di dettaglio in merito alla errata compilazione. Come può rimediare?
-    body: "Entro 10 giorni dalla ricezione della richiesta di rettifica, che il Comune riceverà sullo stesso indirizzo PEC indicato in IPA, sarà possibile correggere le informazioni errate ripetendo l’intero processo di compilazione della domanda per l’adesione. Trascorso tale termine, la domanda sarà respinta. "
-    cat: "1|Requisiti e domanda di adesione"
-  - title: Fino a quando è possibile presentare la domanda di adesione all’Avviso Pubblico Fondo Innovazione?
-    body: "La domanda di adesione dovrà essere presentata entro venerdì 15 gennaio 2021, data oltre la quale non sarà più possibile compilare né inviare alcuna domanda."
-    cat: "1|Requisiti e domanda di adesione"
-  - title: In caso di variazioni nelle informazioni anagrafiche successive rispetto a quelle  inserite nella domanda di adesione, è possibile modificarle?
-    body: "Si, i Comuni potranno - in ogni momento per tutto il periodo di vigenza dell’Avviso Pubblico - segnalare eventuali variazioni anagrafiche inviando una PEC al seguente indirizzo: <segnalazioni.fondoinnovazione@pec.pagopa.it>"
-    cat: "1|Requisiti e domanda di adesione"
+    body: Per aderire, è necessario presentare la domanda di adesione tramite
+      apposita procedura all’interno della [piattaforma online
+      dedicata](https://fondoinnovazione.pagopa.it/) entro il 15 gennaio 2021.
+      Consulta il manuale operativo per essere guidato nella corretta
+      compilazione e nel successivo caricamento sulla piattaforma del modulo
+      online per l’adesione.
+    cat: 1|Requisiti e domanda di adesione
+  - title: "Nel modulo di adesione è prevista la possibilità di indicare un soggetto
+      “delegato”: chi può rivestire questo ruolo per conto del Comune aderente?"
+    body: L’incaricato deve essere una persona appartenente al Comune con un
+      incarico dirigenziale. Si suggerisce di affidare, per competenza,
+      l’incarico al referente dei processi di attivazione e integrazione delle
+      piattaforme abilitanti per il raggiungimento degli obiettivi dell’Avviso
+      Pubblico.
+    cat: 1|Requisiti e domanda di adesione
+  - title: In che modo il Comune riceverà conferma di ammissione della propria
+      domanda di adesione?
+    body: Il Comune riceverà una mail a mezzo PEC (sullo stesso indirizzo PEC
+      censito in IPA) con la comunicazione di conferma dell’esito positivo della
+      propria domanda di ammissione.
+    cat: 1|Requisiti e domanda di adesione
+  - title: In caso di irregolarità rilevate sulla domanda di adesione, un Comune
+      riceve una comunicazione di dettaglio in merito alla errata compilazione.
+      Come può rimediare?
+    body: "Entro 10 giorni dalla ricezione della richiesta di rettifica, che il
+      Comune riceverà sullo stesso indirizzo PEC indicato in IPA, sarà possibile
+      correggere le informazioni errate ripetendo l’intero processo di
+      compilazione della domanda per l’adesione. Trascorso tale termine, la
+      domanda sarà respinta. "
+    cat: 1|Requisiti e domanda di adesione
+  - title: Fino a quando è possibile presentare la domanda di adesione all’Avviso
+      Pubblico Fondo Innovazione?
+    body: La domanda di adesione dovrà essere presentata entro venerdì 15 gennaio
+      2021, data oltre la quale non sarà più possibile compilare né inviare
+      alcuna domanda.
+    cat: 1|Requisiti e domanda di adesione
+  - title: In caso di variazioni nelle informazioni anagrafiche successive rispetto
+      a quelle  inserite nella domanda di adesione, è possibile modificarle?
+    body: "Si, i Comuni potranno - in ogni momento per tutto il periodo di vigenza
+      dell’Avviso Pubblico - segnalare eventuali variazioni anagrafiche inviando
+      una PEC al seguente indirizzo:
+      <segnalazioni.fondoinnovazione@pec.pagopa.it>"
+    cat: 1|Requisiti e domanda di adesione
   - title: Come si aderisce a SPID?
-    body: "Per tutte le informazioni e le procedure relative all’adesione al sistema SPID, consulta il [Manuale operativo](../Manuale_operativo_Spid.pdf)."
-    cat: "2|Adesione alle piattaforme abilitanti SPID, pagoPA e all’app IO"
+    body: Per tutte le informazioni e le procedure relative all’adesione al sistema
+      SPID, consulta il [Manuale operativo](../Manuale_operativo_Spid.pdf).
+    cat: 2|Adesione alle piattaforme abilitanti SPID, pagoPA e all’app IO
   - title: Come si aderisce a pagoPA?
-    body: "Per tutte le informazioni e le procedure relative all’adesione a pagoPA, consulta il [Manuale operativo](../Manuale_operativo_pagoPA.pdf)."
-    cat: "2|Adesione alle piattaforme abilitanti SPID, pagoPA e all’app IO"
+    body: Per tutte le informazioni e le procedure relative all’adesione a pagoPA,
+      consulta il [Manuale operativo](../Manuale_operativo_pagoPA.pdf).
+    cat: 2|Adesione alle piattaforme abilitanti SPID, pagoPA e all’app IO
   - title: Come si aderisce all'App IO?
-    body: "Per tutte le informazioni e le procedure relative all’adesione all’App IO, consulta il [Manuale operativo](../Manuale_operativo_App_IO.pdf)."
-    cat: "2|Adesione alle piattaforme abilitanti SPID, pagoPA e all’app IO"
+    body: Per tutte le informazioni e le procedure relative all’adesione all’App IO,
+      consulta il [Manuale operativo](../Manuale_operativo_App_IO.pdf).
+    cat: 2|Adesione alle piattaforme abilitanti SPID, pagoPA e all’app IO
   - title: Qual è la procedura per richiedere il contributo?
-    body: "Le richieste di erogazione del contributo devono essere presentate secondo apposita procedura online tramite l’accesso all’area riservata della piattaforma con le credenziali ricevute nella comunicazione di ammissione all’Avviso Pubblico. I moduli per la richiesta di erogazione del contributo saranno resi disponibili sulla piattaforma."
-    cat: "3|Richiesta di erogazione del contributo"
+    body: Le richieste di erogazione del contributo devono essere presentate secondo
+      apposita procedura online tramite l’accesso all’area riservata della
+      piattaforma con le credenziali ricevute nella comunicazione di ammissione
+      all’Avviso Pubblico. I moduli per la richiesta di erogazione del
+      contributo saranno resi disponibili sulla piattaforma.
+    cat: 3|Richiesta di erogazione del contributo
+  - title: FAQ di prova
+    body: Questo è un **test**
+    cat: 1|Requisiti e domanda di adesione
